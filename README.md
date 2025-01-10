@@ -1,5 +1,7 @@
 # Little Lemon Food Ordering App
 
+This is the final assignment submission as part of Capstone (React App) course provided by Meta under React Native Specialization Certification Course. It comprises the following:
+
 - A React Native Expo app for ordering food from Little Lemon restaurant.
 - Users can sign up, manage preferences, and filter menu categories.
 - Includes profile management, persistent user settings, and SQLite integration for menu data.
