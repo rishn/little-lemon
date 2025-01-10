@@ -8,6 +8,11 @@ This is the final assignment submission as part of Capstone (React App) course p
 
 **Scan the QR code using Exp Go SDK 47 and test the app** [QR code link](https://expo.dev/preview/update?message=Publish%20Update&updateRuntimeVersion=exposdk%3A47.0.0&createdAt=2024-07-03T09%3A21%3A32.588Z&slug=exp&projectId=221d2bc0-e34d-4538-b828-2e1cabe5bba7&group=2468e4a0-6270-4a2e-8e34-17167031fde8)
 
+## Expo Go SDK 47 Installation
+1. Ensure Expo Go App is not previously installed. Delete if installed.
+2. Download the following apk via the given link on your phone: [https://d1ahtucjixef4r.cloudfront.net/Exponent-2.26.6.apk](https://d1ahtucjixef4r.cloudfront.net/Exponent-2.26.6.apk).
+3. Install the application when prompted.
+
 ## Table of Contents
 
 - [Overview](#overview)
