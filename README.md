@@ -4,6 +4,8 @@
 - Users can sign up, manage preferences, and filter menu categories.
 - Includes profile management, persistent user settings, and SQLite integration for menu data.
 
+**Scan the QR code using Exp Go SDK 47 and test the app** ![QR code link](https://expo.dev/preview/update?message=Publish%20Update&updateRuntimeVersion=exposdk%3A47.0.0&createdAt=2024-07-03T09%3A21%3A32.588Z&slug=exp&projectId=221d2bc0-e34d-4538-b828-2e1cabe5bba7&group=2468e4a0-6270-4a2e-8e34-17167031fde8)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -31,7 +33,7 @@
 
 ### Links
 
-- [GitHub Repository](https://github.com/marventures/little-lemon-app)
+- [GitHub Repository](https://github.com/rishn/little-lemon)
 - [Demo QR Code](https://expo.dev/preview/update?message=Publish%20Update&updateRuntimeVersion=exposdk%3A47.0.0&createdAt=2024-07-03T09%3A21%3A32.588Z&slug=exp&projectId=221d2bc0-e34d-4538-b828-2e1cabe5bba7&group=2468e4a0-6270-4a2e-8e34-17167031fde8)
 
 ## My Process
