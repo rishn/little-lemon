@@ -30,7 +30,15 @@ This is the final assignment submission as part of Capstone (React App) course p
 6. Logout clears user data and redirects to the login page.
 7. SQLite for menu item population, queries, and filtering.
 
-### Screenshot 
+### Images
+
+#### Wireframe
+
+<p align="center">
+  <img src="https://github.com/rishn/little-lemon/blob/main/wireframe.jpg" alt="Image" />
+</p>
+
+#### Screens
 ![Profile and Home Screens](https://user-images.githubusercontent.com/108392678/217715079-d66eb960-f5cf-4cdf-8f33-b45b320fca7e.jpg)
 
 ### Links
